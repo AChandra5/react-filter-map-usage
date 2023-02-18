@@ -1,0 +1,9 @@
+.search-bar{
+    width: 95%;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 1000px;
+    background: #1E1E1E;
+    height: 20px;
+    margin-top: 10px;
+    color: aliceblue;
+}
